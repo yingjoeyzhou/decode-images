@@ -1,5 +1,5 @@
 # decode-images
-Repository for code review. The `-epo.fif` datafiles will be shared separately.
+Repository for code review. The `-epo.fif` datafiles on shared drive, and should be placed in the `derivatives/epochs/loc` and `derivatives/epochs/main` folders manually.
 
 ## Folder structure
 ```
